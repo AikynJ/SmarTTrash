@@ -2,7 +2,7 @@
 
 
 >  This system monitors the garbage bins and informs about the level of garbage collected in the garbage bins via a app.
-
+>This project will be modified, because this is not a final project
 
 
 > #### Hardware Specifications
@@ -16,26 +16,18 @@
 > - **Slide switch**
 > - **Jumper wires**
 > - **Breadboard**
+>Can be modified
 
 > #### Software Specifications
 >
 > - **Arduino**
 > - **Blynk Platform (Android Studio also can be used)**
 > - **Firebase**
+>Can be modified
 
 ### ✨ [Demo]
 
-![pic_0](https://raw.githubusercontent.com/TheForgotensoul/IoT_Based_Garbage_Monitoring_System/master/img/0.png)
 
-![pic_1](https://raw.githubusercontent.com/TheForgotensoul/IoT_Based_Garbage_Monitoring_System/master/img/1.png)
-
-![pic_2](https://raw.githubusercontent.com/TheForgotensoul/IoT_Based_Garbage_Monitoring_System/master/img/2.png)
-
-![pic_3](https://raw.githubusercontent.com/TheForgotensoul/IoT_Based_Garbage_Monitoring_System/master/img/3.png)
-
-![pic_4](https://raw.githubusercontent.com/TheForgotensoul/IoT_Based_Garbage_Monitoring_System/master/img/4.png)
-
-![pic_5](https://raw.githubusercontent.com/TheForgotensoul/IoT_Based_Garbage_Monitoring_System/master/img/5.png)
 
 ## Install
 
