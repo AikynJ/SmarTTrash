@@ -27,8 +27,10 @@
 >Can be modified
 
 ###  [Demo]
+![IoT-Arduino-Garbage-Monitor-circuit](https://user-images.githubusercontent.com/122163200/235305553-0533a45c-75e2-4594-805d-3946739c93ee.png)
 
 
+![photo1682270925 (1)](https://user-images.githubusercontent.com/122163200/235305575-c1991d1a-cbd0-4aa3-b1a0-ac7cc7b2571d.jpeg)
 
 ## Install
 
