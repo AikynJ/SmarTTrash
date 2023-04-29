@@ -1,7 +1,8 @@
 <h1 align="center">SmarTTrash project</h1>
 
 
->  This system monitors the garbage bins and informs about the level of garbage collected in the garbage bins via a app.
+>  This system monitors the garbage bins and informs about the level of garbage collected in the garbage bins via a app. Helps the garbage man with waste collection by using the functions of generating the most profitable route based on the fullness of the garbage cans.
+
 >This project will be modified, because this is not a final project
 
 
@@ -25,7 +26,7 @@
 > - **Firebase**
 >Can be modified
 
-### ✨ [Demo]
+###  [Demo]
 
 
 
